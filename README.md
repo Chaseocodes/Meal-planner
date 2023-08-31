@@ -15,4 +15,3 @@ Welcome to the Meal Planner App! This is a simple application built using React 
 ## Start
 
 - To run type in "npm run start" into your terminal
-# Meal-planner
